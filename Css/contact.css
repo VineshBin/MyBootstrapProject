@@ -1,0 +1,28 @@
+ @media screen and (max-width: 768px) {
+       #login {
+           margin-top: 20px;
+        }
+     
+        
+    }
+
+     #ul-item a{
+    text-decoration: none;
+    color: white;
+    
+  }
+
+  #ul-item a:hover{
+   
+    color: gainsboro;
+    
+  }
+
+
+:not(svg) {
+    transform-origin: 0px 0px;
+}
+.fill-warning {
+    fill: #f7c32e !important;
+}
+
